@@ -4,7 +4,7 @@ Recreation of the character "Alex" from Stanley Kubrick's movie adaptation of An
 
 Rendered preview of the current version:
 
-![Preview](/Alex_1.png)
+![Preview](Alex_1.png)
 
 ## Contents:
 
