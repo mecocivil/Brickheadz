@@ -4,15 +4,19 @@ Recreation of the character "Alex" from Stanley Kubrick's movie adaptation of An
 
 Rendered preview of the current version:
 
-<img src="Alex_1.png">
+(Alex_1.png)
 
 ## Contents:
 
-<ul><Li>Alex_1.io: stud.io binary model file</li></ul>
+- Alex_1.io: stud.io binary model file
+- Alex_1.png: rendered preview
 
 ### To-do:
 
-<ul>
-<Li>Parts list</li>
-<li>Instruction</Li>
-</Ul>
+[ ] Parts list
+[ ]Instruction
+
+:::Info
+⚠️ Warning
+One of the pieces has an unavailable color.
+:::
