@@ -4,7 +4,7 @@ Recreation of the character "Alex" from Stanley Kubrick's movie adaptation of An
 
 Rendered preview of the current version:
 
-(Alex_1.png)
+![Preview](/Alex_1.png)
 
 ## Contents:
 
@@ -13,10 +13,7 @@ Rendered preview of the current version:
 
 ### To-do:
 
-[ ] Parts list
-[ ]Instruction
+- [ ] Parts list
+- [ ] Instruction
 
-:::Info
-⚠️ Warning
-One of the pieces has an unavailable color.
-:::
+> ⚠️ Warning: One of the pieces has an unavailable color.
