@@ -10,6 +10,7 @@ Rendered preview of the current version:
 
 - Alex_1.io: stud.io binary model file
 - Alex_1.png: rendered preview
+- Alex.io: newer version I'm currently in the process of rebuilding
 
 ### To-do:
 
