@@ -1,0 +1,50 @@
+BLItemNo	ElementId	LdrawId	PartName	BLColorId	LDrawColorId	ColorName	ColorCategory	Qty	Weight
+11211	6024495	11211	Brick, Modified 1 x 2 with Studs on 1 Side	2	19	Tan	Solid Colors	2	0.86
+11476	6177314	11476	Plate, Modified 1 x 2 with Clip Horizontal on Side	2	19	Tan	Solid Colors	2	0.46
+11477	6057390	11477	Slope, Curved 2 x 1 No Studs	89	85	Dark Purple	Solid Colors	14	0.31
+15068	6182217	15068	Slope, Curved 2 x 2 No Studs	89	85	Dark Purple	Solid Colors	6	0.57
+22885	6123809	22885	Brick, Modified 1 x 2 x 1 2/3 with Studs on 1 Side	86	496	Rubber Light Bluish Gray	Rubber Colors	10	1.25
+2431	4550324	2431	Tile 1 x 4	2	19	Tan	Solid Colors	1	0.54
+2431	6057988	2431	Tile 1 x 4	89	85	Dark Purple	Solid Colors	3	0.54
+2431	243126	2431	Tile 1 x 4	11	0	Black	Solid Colors	1	0.54
+25269	6173925	25269	Tile, Round 1 x 1 Quarter	4	25	Orange	Solid Colors	2	0.1
+25269	6199891	25269	Tile, Round 1 x 1 Quarter	89	85	Dark Purple	Solid Colors	4	0.1
+3003	300321	3003	Brick 2 x 2	5	4	Red	Solid Colors	2	1.35
+3003	4550359	3003	Brick 2 x 2	104	29	Bright Pink	Solid Colors	1	1.35
+3004	4109995	3004	Brick 1 x 2	2	19	Tan	Solid Colors	2	0.8
+3004	300426	3004	Brick 1 x 2	11	0	Black	Solid Colors	1	0.8
+3005	300526	3005	Brick 1 x 1	11	0	Black	Solid Colors	2	0.44
+3010	301026	3010	Brick 1 x 4	11	0	Black	Solid Colors	1	1.64
+3010	301021	3010	Brick 1 x 4	5	4	Red	Solid Colors	1	1.64
+3020	302001	3020	Plate 2 x 4	1	15	White	Solid Colors	1	1.2
+3020	4114309	3020	Plate 2 x 4	2	19	Tan	Solid Colors	2	1.2
+3022	4613982	3022	Plate 2 x 2	4	25	Orange	Solid Colors	2	0.64
+3023	302321	3023	Plate 1 x 2	5	4	Red	Solid Colors	1	0.36
+3023	302326	3023	Plate 1 x 2	11	0	Black	Solid Colors	4	0.36
+3023	4113917	3023	Plate 1 x 2	2	19	Tan	Solid Colors	2	0.36
+3024	302426	3024	Plate 1 x 1	11	0	Black	Solid Colors	2	0.2
+3024	302421	3024	Plate 1 x 1	5	4	Red	Solid Colors	3	0.2
+3031	4243819	3031	Plate 4 x 4	11	0	Black	Solid Colors	2	2.22
+3031	6109819	3031	Plate 4 x 4	89	85	Dark Purple	Solid Colors	2	2.22
+3069b	306921	3069b	Tile 1 x 2 with Groove	5	4	Red	Solid Colors	5	0.26
+3069b	4613192	3069b	Tile 1 x 2 with Groove	89	85	Dark Purple	Solid Colors	4	0.26
+32062	4163623	32062	Technic, Axle 2 Notched	1	15	White	Solid Colors	1	0.26
+32064	6178922	32064	Technic, Brick 1 x 2 with Axle Hole	11	0	Black	Solid Colors	1	0.88
+3623	6035470	3623	Plate 1 x 3	89	85	Dark Purple	Solid Colors	2	0.53
+3710	6167464	3710	Plate 1 x 4	89	85	Dark Purple	Solid Colors	6	0.71
+3710	4113233	3710	Plate 1 x 4	2	19	Tan	Solid Colors	6	0.71
+3941		3941	Brick, Round 2 x 2 with Axle Hole	36	10	Bright Green	Solid Colors	1	1.2
+4032	4211475	4032	Plate, Round 2 x 2 with Axle Hole	86	496	Rubber Light Bluish Gray	Rubber Colors	1	0.37
+49668	4273590	49668	Plate, Modified 1 x 1 with Tooth Horizontal	11	0	Black	Solid Colors	2	0.253
+54200	4567509	54200	Slope 30 1 x 1 x 2/3	89	85	Dark Purple	Solid Colors	4	0.21
+54200	4516055	54200	Slope 30 1 x 1 x 2/3	2	19	Tan	Solid Colors	2	0.21
+87079	4560182	87079	Tile 2 x 4	11	0	Black	Solid Colors	1	0.9
+87087	4558886	87087	Brick, Modified 1 x 1 with Stud on 1 Side	5	4	Red	Solid Colors	2	0.45
+92593	6173056	92593	Plate, Modified 1 x 4 with 2 Studs	2	19	Tan	Solid Colors	1	0.61
+92593	4599499	92593	Plate, Modified 1 x 4 with 2 Studs	11	0	Black	Solid Colors	1	0.61
+95199	4659662	95199	Minifig, Weapon Gun, Two Barrel Pistol	11	0	Black	Solid Colors	1	0.41
+98138pb072	6284077	98138pb072	Tile, Round 1 x 1 with Large White Square and Small White Square Pattern	11	0	Black	Solid Colors	2	0.15
+99780	6004990	99780	Bracket 1 x 2 - 1 x 2 Inverted	86	496	Rubber Light Bluish Gray	Rubber Colors	2	0.55
+									
+Total qty	Total Weight								
+121	75.316								
