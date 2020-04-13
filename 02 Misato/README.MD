@@ -4,7 +4,7 @@ Recreation of the character Major Misato Katsuragi from the anime series Neon Ge
 
 Rendered preview of the current version:
 
-![Preview](Misato.png)
+![Preview](misato.png)
 
 ## Contents:
 
