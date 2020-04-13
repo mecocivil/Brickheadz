@@ -2,7 +2,7 @@
 
 This is the base model from Lego Set **#41597**, that I use to start my new builds. It is an important reference regarding overall geometry and different body parts size and height.  
 
-####Rendered preview:
+Rendered preview:
 
 ![Preview](base.png)
 
