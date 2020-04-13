@@ -12,6 +12,7 @@ Rendered preview of the current version:
 - [Misato.png](Misato.png): rendered preview
 - [Misato1.png](Misato1.png): rendered preview
 - [Misato_parts.csv](Misato_parts.csv): table with parts list
+- [Misato_i.pdf](Misato_i.pdf): instructions
 
 ### To-do:
 
