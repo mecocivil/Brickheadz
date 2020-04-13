@@ -8,12 +8,12 @@ Rendered preview of the current version:
 
 ## Contents:
 
-- Misato.io: stud.io binary model file
-- Misato.png: rendered preview
-- Misato1.png: rendered preview
-- Misato_parts.csv: table with parts list
+- [Misato.io](Misato.io): stud.io binary model file
+- [Misato.png](Misato.png): rendered preview
+- [Misato1.png](Misato1.png): rendered preview
+- [Misato_parts.csv](Misato_parts.csv): table with parts list
 
 ### To-do:
 
 - [X] Parts list
-- [ ] Instruction
+- [X] Instruction
